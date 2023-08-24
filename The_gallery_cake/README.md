@@ -1,6 +1,8 @@
 # Read me file
 this file contains screenshot of html file and explaination of html tags used.
 
+Hosted link - https://gautamkamboj.github.io/vs_code/resume.html
+
 ## Head, title
 ![Alt text](image-1.png)
 
@@ -13,6 +15,7 @@ title-	Defines the title of a document
 
 ## Body, Paragraph, Anchor, Heading
 ![Alt text](image-2.png)
+
 body -	It is used to define the body section of an HTML document.
 
 p - 	It represents a paragraph in an HTML document.
