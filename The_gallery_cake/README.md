@@ -26,8 +26,8 @@ hr - It is used to apply horizontal row.
 br - Break tag is used to apply 1 line break in a paragraph.
 
 
-## list(ordered, unordered)!
-[Alt text](image-3.png)
+## list(ordered, unordered)
+![Alt text](image-3.png)
 
 Ol-  it defines ordered list( eg 1,2,3).
 
@@ -37,8 +37,8 @@ li - these are used for listing items.
 
 
 
-## pre, emsp, ensp!
-[Alt text](image-5.png)
+## pre, emsp, ensp
+![Alt text](image-5.png)
 
 pre - It defines preformatted text in an HTML document. the font of content inside pre tag cannot be changed.
 
