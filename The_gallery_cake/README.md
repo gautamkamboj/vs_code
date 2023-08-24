@@ -1,7 +1,8 @@
 # Read me file
 this file contains screenshot of html file and explaination of html tags used.
 
-## Head, title![Alt text](image-1.png)
+## Head, title
+![Alt text](image-1.png)
 
 DOCTYPE html- It is an "information" to the browser about what document type to expect. also version of html.
 
@@ -10,7 +11,8 @@ head-	Defines information about the document
 title-	Defines the title of a document
 
 
-## Body, Paragraph, Anchor, Heading![Alt text](image-2.png)
+## Body, Paragraph, Anchor, Heading
+![Alt text](image-2.png)
 body -	It is used to define the body section of an HTML document.
 
 p - 	It represents a paragraph in an HTML document.
@@ -24,7 +26,8 @@ hr - It is used to apply horizontal row.
 br - Break tag is used to apply 1 line break in a paragraph.
 
 
-## list(ordered, unordered)![Alt text](image-3.png)
+## list(ordered, unordered)!
+[Alt text](image-3.png)
 
 Ol-  it defines ordered list( eg 1,2,3).
 
@@ -34,7 +37,8 @@ li - these are used for listing items.
 
 
 
-## pre, emsp, ensp![Alt text](image-5.png)
+## pre, emsp, ensp!
+[Alt text](image-5.png)
 
 pre - It defines preformatted text in an HTML document. the font of content inside pre tag cannot be changed.
 
