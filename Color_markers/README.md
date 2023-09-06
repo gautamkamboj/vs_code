@@ -1,5 +1,7 @@
 ## HTML
 
+hosted link - https://gautamkamboj.github.io/vs_code/Color_markers/index.html
+
 ![Alt text](image.png)
 
 <!DOCTYPE html>: This declaration specifies that the document is an HTML5 document.
