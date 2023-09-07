@@ -1,4 +1,4 @@
-hosted link - https://gautamkamboj.github.io/vs_code/Nutrition_lable/index.html
+hosted link - https://gautamkamboj.github.io/vs_code/Nutrition_label/index.html
 
 ## HTML
 
