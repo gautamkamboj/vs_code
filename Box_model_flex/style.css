@@ -1,0 +1,50 @@
+
+header{
+    display: flex;
+    margin-bottom: 20px;
+}
+
+header p{
+    font-size: smaller;
+}
+
+
+.p1{
+    flex: 1;
+}
+.p2{
+    flex:2;
+    display: flex;
+    justify-content: flex-start;
+}
+
+.outer{
+    margin-left: 5%;
+    margin-right: auto;
+    max-width: 40%;
+}
+
+.outer, .inner1, .inner2, .inner3, .inner31, .inner32, span{
+    border: 2px solid red;
+    padding: 10px;
+   }
+
+.inner1{
+    margin: 25px 0 20px;
+}
+
+
+h1{
+    font-weight: bolder;
+    margin-block: 0px;
+   font-size: xx-large;   
+}
+
+p{
+ font-size: medium;
+}
+
+ul{
+  list-style-position: outside;
+  margin-left: -40px;
+}
