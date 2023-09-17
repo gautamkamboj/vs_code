@@ -5,45 +5,45 @@ Hosted link-https://gautamkamboj.github.io/vs_code/Weekly_test_5/index.html
 ![Alt text](image.png)
 
 
-<!DOCTYPE html>: This declaration specifies the document type and version of HTML you are using.
+!DOCTYPE html>: This declaration specifies the document type and version of HTML you are using.
 
-<html lang="en">: This is the root element of your HTML document, and it specifies that the document is written in English.
+html lang="en">: This is the root element of your HTML document, and it specifies that the document is written in English.
 
-<head>: This section contains meta information about the document, including character encoding, viewport settings, and the title of the page.
+head>: This section contains meta information about the document, including character encoding, viewport settings, and the title of the page.
 
-<title>: Sets the title of the webpage, which typically appears in the browser's title bar or tab.
+title>: Sets the title of the webpage, which typically appears in the browser's title bar or tab.
 
-<link>: These elements link to external resources, such as a CSS file for styling and a Google Fonts stylesheet for custom fonts.
+link>: These elements link to external resources, such as a CSS file for styling and a Google Fonts stylesheet for custom fonts.
 
-<body>: This is the main content of your webpage. It contains the header, sections, and footer.
+body>: This is the main content of your webpage. It contains the header, sections, and footer.
 
-<header>: This section typically contains elements like navigation menus, logos, and other header content.
+header>: This section typically contains elements like navigation menus, logos, and other header content.
 
-<nav>: A navigation menu within the header.
+nav>: A navigation menu within the header.
 
 ![Alt text](image-1.png)
 
-<div>: These are div elements used for structuring and grouping content.
+div>: These are div elements used for structuring and grouping content.
 
-<a>: Anchor elements create hyperlinks, and they are used for linking to other pages or resources.
+a>: Anchor elements create hyperlinks, and they are used for linking to other pages or resources.
 
-<img>: Image elements display images on the webpage.
+img>: Image elements display images on the webpage.
 
-<select>: A dropdown select element for choosing search categories.
+select>: A dropdown select element for choosing search categories.
 
-<input>: An input element for user text input, used for searching in this case.
+input>: An input element for user text input, used for searching in this case.
 
-<p>: Paragraph elements for text content.
+p>: Paragraph elements for text content.
 
-<ul>: Unordered list elements, used for creating lists of links.
+ul>: Unordered list elements, used for creating lists of links.
 
-<li>: List item elements within unordered lists.
+li>: List item elements within unordered lists.
 
 ![Alt text](image-2.png)
 
-<section>: These represent different sections of the webpage, such as a hero section and a shop section.
+section>: These represent different sections of the webpage, such as a hero section and a shop section.
 
-<footer>: The footer section contains links and information usually found at the bottom of a webpage.
+footer>: The footer section contains links and information usually found at the bottom of a webpage.
 
 ## CSS
 
