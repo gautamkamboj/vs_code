@@ -1,0 +1,80 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.header{
+    position: sticky;
+    top: 0;
+
+}
+
+.nav-header{
+    display: inline-block;
+    margin-left: 20%;
+}
+.nav-header a{
+    margin: 15px;
+    color: white;
+}
+.logo{
+    display: inline-block;
+    margin: 2.8rem 3.8rem;
+}
+.logo img{
+    top: 10px;
+    width: 7rem;
+    position: sticky;
+    top: 10px;
+}
+
+.bg{
+    background-image: url('../Major_project_aria/assets/header-background.jpg');
+    width: 98vw;
+    height: 65rem;
+    background-position: center;
+    background-repeat: no-repeat;
+    
+}
+.content{
+    color: whitesmoke;
+    text-align: center;
+    position: relative;
+    top: 200px;
+}
+
+.content h1{
+    font-size: 4rem;
+}
+.content p{
+    font-size: x-large;
+}
+.content button{
+    margin-top: 30px;
+    padding: 15px 30px;
+    border: 0;
+    border-radius: 5px;
+    background-color: #14bf98;
+    color: white;
+    font-weight: bold;
+}
+.content button:hover{
+    background: rgba(00,00,00,00);
+    border: 2px solid #14bf98;
+    color: #14bf98;
+    transition: 0.3s;
+}
+.sec-2{
+    text-align:left;
+    position:relative;
+    bottom: 15rem;
+    left: 5rem;
+    width: 30vw;
+    display: inline-block;
+}
+.sec-2 img{
+    position: relative;
+    top: 20rem;
+    left: -1rem;
+    padding: 5rem;
+    
+}
